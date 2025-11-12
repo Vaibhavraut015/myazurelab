@@ -66,6 +66,6 @@ Note the following, which were set in the template and the parameters file:
 
 The name of the storage account, which should be azurelab appended with a unique string of characters. The Location is West US. The Account kind is StorageV2.
 
-[(arm.jpg)]
+![arm.jpg]
 
 Conclusion Congratulations — you've completed this hands-on lab!
